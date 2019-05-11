@@ -45,7 +45,7 @@ $ cd alphabet-game
 $ python alphabet_game.py
 ```
 
-# Licence
+# License
 This software is released under the MIT License, see LICENSE.
 
 # Authors
